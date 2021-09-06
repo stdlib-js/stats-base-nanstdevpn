@@ -226,6 +226,26 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dnanstdevpn`][@stdlib/stats/base/dnanstdevpn]: calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a two-pass algorithm.
+-   [`@stdlib/stats/base/nanvariancepn`][@stdlib/stats/base/nanvariancepn]: calculate the variance of a strided array ignoring NaN values and using a two-pass algorithm.
+-   [`@stdlib/stats/base/nanstdev`][@stdlib/stats/base/nanstdev]: calculate the standard deviation of a strided array ignoring NaN values.
+-   [`@stdlib/stats/base/snanstdevpn`][@stdlib/stats/base/snanstdevpn]: calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values and using a two-pass algorithm.
+-   [`@stdlib/stats/base/stdevpn`][@stdlib/stats/base/stdevpn]: calculate the standard deviation of a strided array using a two-pass algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -287,13 +307,23 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
-[@stdlib/stats/base/dnanstdevpn]: https://github.com/stdlib-js/stats-base-dnanstdevpn
-
-[@stdlib/stats/base/snanstdevpn]: https://github.com/stdlib-js/stats-base-snanstdevpn
-
 [@neely:1966a]: https://doi.org/10.1145/365719.365958
 
 [@schubert:2018a]: https://doi.org/10.1145/3221269.3223036
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dnanstdevpn]: https://github.com/stdlib-js/stats-base-dnanstdevpn
+
+[@stdlib/stats/base/nanvariancepn]: https://github.com/stdlib-js/stats-base-nanvariancepn
+
+[@stdlib/stats/base/nanstdev]: https://github.com/stdlib-js/stats-base-nanstdev
+
+[@stdlib/stats/base/snanstdevpn]: https://github.com/stdlib-js/stats-base-snanstdevpn
+
+[@stdlib/stats/base/stdevpn]: https://github.com/stdlib-js/stats-base-stdevpn
+
+<!-- </related-links> -->
 
 </section>
 
