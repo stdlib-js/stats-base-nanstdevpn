@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`8905d11`](https://github.com/stdlib-js/stdlib/commit/8905d11cc2651211d42aa266f914aa3b1d4d3cef) - add support for accessor arrays and refactor `stats/base/nanstdevpn` [(#7357)](https://github.com/stdlib-js/stdlib/pull/7357)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5669](https://github.com/stdlib-js/stdlib/issues/5669)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`8905d11`](https://github.com/stdlib-js/stdlib/commit/8905d11cc2651211d42aa266f914aa3b1d4d3cef) - **feat:** add support for accessor arrays and refactor `stats/base/nanstdevpn` [(#7357)](https://github.com/stdlib-js/stdlib/pull/7357) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`742b5de`](https://github.com/stdlib-js/stdlib/commit/742b5deeb5ff921e03eac5560734c75e7535fdea) - **refactor:** update paths _(by Aayush Khanna)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
+-   Gururaj Gurram
 
 </section>
 
