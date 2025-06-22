@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c888633`](https://github.com/stdlib-js/stdlib/commit/c8886332670e2fae18fbc0ef6996bd515396cad8) - **refactor:** consolidate files _(by Athan Reines)_
 -   [`8905d11`](https://github.com/stdlib-js/stdlib/commit/8905d11cc2651211d42aa266f914aa3b1d4d3cef) - **feat:** add support for accessor arrays and refactor `stats/base/nanstdevpn` [(#7357)](https://github.com/stdlib-js/stdlib/pull/7357) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`742b5de`](https://github.com/stdlib-js/stdlib/commit/742b5deeb5ff921e03eac5560734c75e7535fdea) - **refactor:** update paths _(by Aayush Khanna)_
 
