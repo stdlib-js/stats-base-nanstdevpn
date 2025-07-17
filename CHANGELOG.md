@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-07-17)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`61c4728`](https://github.com/stdlib-js/stdlib/commit/61c4728812031ccccd496101dd7a87d13782b562) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`b9f9779`](https://github.com/stdlib-js/stdlib/commit/b9f97793ddf7d6afeb64a6a42c821f9337acb993) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`0ce3935`](https://github.com/stdlib-js/stdlib/commit/0ce393575bc9f92b32158f83cc47c02aec2445e8) - **refactor:** rename files and update paths _(by Athan Reines)_
 -   [`c888633`](https://github.com/stdlib-js/stdlib/commit/c8886332670e2fae18fbc0ef6996bd515396cad8) - **refactor:** consolidate files _(by Athan Reines)_
